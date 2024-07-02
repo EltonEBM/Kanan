@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 elton ibrahimov
 
+=======
+elton amrahov
+>>>>>>> yandal1
