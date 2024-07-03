@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-kanan ibrahimov 
-=======
-kanan ibrahimov
->>>>>>> yandal1
+i made also this file 
