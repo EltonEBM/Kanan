@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-kanan ibrahimov
-||||||| b7b52c6
-benim ilk peyserliyim deyil
-=======
-kanan amraho
->>>>>> yandal1
+I made a litlle change in this directoy for tying PR and merge main repo
+
